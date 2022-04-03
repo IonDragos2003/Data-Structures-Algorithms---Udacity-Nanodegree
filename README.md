@@ -3,7 +3,7 @@ Repo tracking the work done for the Data Structures &amp; Algorithms nanodegree 
 
 Content covered
 
-PART 1 - Introduction
+## PART 1 - Introduction
 Start with a warm welcome to the program by refreshing your Python skills and learning about problem solving and efficiency!
 
 Project: Unscramble Computer Science Problems
@@ -18,7 +18,7 @@ Learn about the core data structures used in programming.
 
 Project: Show Me the Data Structures
 
-PART 3 -Basic Algorithms
+### PART 3 -Basic Algorithms
 Learn about the basic algorithms used in programming.
 * Basic algorithms
 * Sorting algorithms
